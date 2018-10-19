@@ -16,7 +16,7 @@ import (
 var (
 	// DefaultKeepAliveIdleTime specifies how long connection can be idle
 	// before sending keepalive message.
-	DefaultKeepAliveIdleTime = 15 * time.Minute
+	DefaultKeepAliveIdleTime = time.Minute
 	// DefaultKeepAliveCount specifies maximal number of keepalive messages
 	// sent before marking connection as dead.
 	DefaultKeepAliveCount = 8

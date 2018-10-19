@@ -43,7 +43,7 @@ Author:
 	Written by M. Matczuk (mmatczuk@gmail.com)
 
 Bugs:
-	Submit bugs to https://github.com/mmatczuk/go-http-tunnel/issues
+	Submit bugs to https://github.com/mohemohe/go-http-tunnel/issues
 `
 
 func init() {
